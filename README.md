@@ -20,5 +20,15 @@ Design should be pixel perfect
 ## Links:
 
 [Adobe XD](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd/specs/)
-[Github Link]()
-[Hosted Link]()
+
+[Github Link](https://github.com/murtazarangwala99/educase)
+
+[Hosted Link](https://mk-educase.netlify.app/)
+
+[Latest Resume](https://drive.google.com/file/d/1FRyBue6PMB7JajCV5oB_rL_bsHy3HcLY/view?usp=sharing)
+
+## Note:
+
+- It's not Pixel perfect i try to build as much close to it. Task is done in Tailwind CSS and React.
+- I did use react-router-dom for Routing.
+- I Make it in almost 3 hours so, i didn't go for pixel perfect.
